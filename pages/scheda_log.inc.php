@@ -1,4 +1,4 @@
-<div class="pagina_scheda_log">
+<div class="pagina_scheda">
     <?php /*HELP: */ ?>
 
     <?php
